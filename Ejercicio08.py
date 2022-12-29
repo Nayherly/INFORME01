@@ -1,6 +1,3 @@
-from re import A
-
-
 def potencialRecursivo(a,b):
     if b==1:
         rpta = a
